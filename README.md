@@ -159,9 +159,3 @@ pnpm-debug.log*
 .env.local
 .env.*.local
 ```
-
-## 🧑‍💻 Maintainer
-
-Made with ❤️ by @subrootdev
-
-Feel free to fork, contribute, or use as your go-to Vue starter kit!
