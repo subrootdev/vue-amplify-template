@@ -19,12 +19,6 @@ npx degit subrootdev/vue-amplify-template my-new-app
 cd my-new-app
 ```
 
-Or use with Vite directly (if template is public):
-
-```bash
-npm create vite@latest my-new-app -- --template subrootdev/vue-amplify-template
-```
-
 ### 2️⃣ Install dependencies
 
 ```bash
