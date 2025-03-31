@@ -1,0 +1,39 @@
+# === Amplify ===
+# Keep these:
+# - amplify/backend/**
+# - amplify/team-provider-info.json
+# - amplify/cli.json (if exists)
+
+# Ignore these:
+amplify/#current-cloud-backend/
+amplify/backend/.temp/
+amplify/backend/.build/
+amplify/mock-data/
+amplify/.config/
+amplify/.amplifyrc
+
+# === General ===
+node_modules/
+dist/
+.vite/
+.temp/
+.tmp/
+.cache/
+*.tsbuildinfo
+.DS_Store
+
+# === Env ===
+.env
+.env.local
+.env.*.local
+
+# === Editor ===
+.vscode/
+.cursor/
+.idea/
+
+# === Logs ===
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+

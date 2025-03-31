@@ -1,0 +1,28 @@
+# === Build and Dependency Folders ===
+node_modules/
+dist/
+.vite/
+.cache/
+.temp/
+.tmp/
+*.tsbuildinfo
+
+# === AWS Amplify ===
+amplify/#current-cloud-backend/
+amplify/backend/.temp/
+amplify/backend/.build/
+amplify/mock-data/
+amplify/.config/
+amplify/.amplifyrc
+
+# === Editor and System Files ===
+.vscode/
+.cursor/
+.idea/
+.DS_Store
+
+# === Environment Files ===
+.env
+.env.local
+.env.*.local
+
